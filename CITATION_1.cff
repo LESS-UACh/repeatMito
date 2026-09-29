@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata below
+  (or the version-specific metadata attached to the exact release you used).
+type: software
+title: "repeatMito"
+version: "1.0.0"
+date-released: "2026-09-20"
+abstract: >-
+  Iterative reseeding and graph-based detection of repeat-mediated
+  mitochondrial genome assembly breaks from short reads alone, combining
+  NOVOPlasty and GetOrganelle in an iterative, cross-validated workflow with
+  Bandage-based assembly-graph depth screening. Includes a dual-lineage (DUI)
+  mode for recovering divergent, co-occurring F-type and M-type mitochondrial
+  genomes from a single heteroplasmic read pool in animals exhibiting Doubly
+  Uniparental Inheritance.
+authors:
+  - family-names: "Angulo"
+    given-names: "Fernanda E."
+    affiliation: "Universidad Austral de Chile"
+  - family-names: "Núñez"
+    given-names: "José J."
+    affiliation: "Universidad Austral de Chile"
+license: MIT
+repository-code: "https://github.com/LESS-UACh/repeatMito"
+keywords:
+  - mitochondrial genome assembly
+  - doubly uniparental inheritance
+  - DUI
+  - NOVOPlasty
+  - GetOrganelle
+  - organelle genomics
+  - repeat-mediated assembly
+  - bioinformatics pipeline
+  - molecular systematics
