@@ -11,7 +11,7 @@ repeatMito combines two widely used short-read organelle assemblers — [NOVOPla
 
 repeatMito is scoped to animal mitochondrial genome assembly. Use it when the problem is a repeat-mediated genome break and/or DUI.
 
-Authors: Fernanda E. Angulo, José J. Núñez (Universidad Austral de Chile).
+Authors: Fernanda E. Angulo, José J. Nuñez (Universidad Austral de Chile).
 
 ## Installation
 
